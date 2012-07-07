@@ -10,7 +10,7 @@ system property
  
 file1 to 3 file open & propget
 
-#getProperties() return List<{Properties}>
-#getProperty() return Properties
+<h2>##getProperties() return List<<Properties>></h2>
+<h2>##getProperty() return Properties</h2>
 
 Thanx.
