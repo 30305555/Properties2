@@ -16,7 +16,9 @@ import java.util.Properties;
  */
 public class Properties2 {
 	
-	// •s‰ÂŽ‹
+	/** 
+	 * non visible Constructor
+	 */
 	private Properties2(){}
 	/**
 	 * -Djp.takemehisueha.prop.sysconfig1=<B><I>filename</I></B>
